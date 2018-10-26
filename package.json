@@ -1,6 +1,7 @@
 {
   "name": "file-metadata-micro-service-codecamp",
   "main": "server.js",
+  "author":"Angelo Manganiello",
   "scripts": {
     "start": "node server.js"
   },
