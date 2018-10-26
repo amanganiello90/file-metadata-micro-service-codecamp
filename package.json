@@ -1,6 +1,7 @@
 {
   "name": "file-metadata-micro-service-codecamp",
   "main": "server.js",
+  "version": "1.0.0",
   "author": "Angelo Manganiello",
   "scripts": {
     "start": "node server.js"
@@ -18,7 +19,7 @@
     "nodemon": "^1.8.1"
   },
   "engines": {
-    "node": "4.4.5"
+    "node": "8.10.0"
   },
   "repository": {
     "type": "git",
